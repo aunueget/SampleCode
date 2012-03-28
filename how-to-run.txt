@@ -1,0 +1,13 @@
+To run any of the sample programs on the Starter Kit:
+
+1. Connect the Hardware as detailed in the Quick Start Guide
+
+2. Run the KD30 Debugger (assumes all Mitsubishi software tools were installed)
+
+3. From the KD30 menu, click FILE > DOWNLOAD > LOAD MODULE , and open the
+ .x30 file in the sample_code directory you wish to run.
+
+4. Click on the "GO" icon.
+
+5. Some programs may need other hardware (e.g. scope to view waveforms) to
+ fully demonstrate the program.
